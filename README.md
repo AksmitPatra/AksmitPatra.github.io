@@ -2,4 +2,4 @@
 
 Hello There!
 
-![Img_1].(Test_for_github.png)
+![Img_1](Test_for_github.png)
